@@ -8,11 +8,12 @@
 test
 
 ```mermaid
-
+graph LR
 A --> B
-
+B --> C
+A --> C
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM2OTc0NTNdfQ==
+eyJoaXN0b3J5IjpbMTY5Nzg1MTY1Nl19
 -->
